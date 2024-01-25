@@ -1,7 +1,8 @@
+![logo](https://github.com/shaymuiruri/shaymuiruri/blob/main/WhatsApp%20Image%202024-01-25%20at%2022.29.16.jpeg)
 <h1 align="center">Hi 👋, I'm Mitchelle! Welcome to my world!!</h1>
 <h3 align="center">A passionate python backend developer and AI and ML Engineer!</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/shaymuiruri/shaymuiruri/blob/main/WhatsApp%20Image%202024-01-25%20at%2022.29.16.jpeg">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaymuiruri&label=Profile%20views&color=0e75b6&style=flat" alt="shaymuiruri" /> </p>

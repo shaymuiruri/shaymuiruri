@@ -1,3 +1,4 @@
+![logo](https://github.com/shaymuiruri/shaymuiruri/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Mitchelle! Welcome to my world!!</h1>
 <h3 align="center">A passionate python backend developer and AI and ML Engineer!</h3>
 
